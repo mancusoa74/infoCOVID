@@ -47,5 +47,10 @@
       "sizes": "640x1136",
       "type": "image/png"
     },
+    {
+        "src": "[Embedded]",
+        "sizes": "750x1334",
+        "type": "image/png"
+    },
   ]
 }
