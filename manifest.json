@@ -2,11 +2,12 @@
   "name": "infoCovid",
   "short_name": "infoCovid",
   "description": "infoCovid",
-  "lang": "en-US",
-  "start_url": "/",
+  "lang": "it-IT",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "/static/icons/128x128.png",
