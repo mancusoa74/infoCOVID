@@ -39,5 +39,18 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "url": "https://mancusoa74.github.io/infoCOVID",
+  "screenshots": [
+    {
+      "src": "[Embedded]",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+        "src": "[Embedded]",
+        "sizes": "750x1334",
+        "type": "image/png"
+    }
   ]
 }
